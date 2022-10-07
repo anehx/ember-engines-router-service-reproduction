@@ -1,0 +1,9 @@
+{
+  "name": "ember-engines-router-service-reproduction",
+  "version": "0.0.0",
+  "private": true,
+  "workspaces": [
+    "engine",
+    "test-app"
+  ]
+}
